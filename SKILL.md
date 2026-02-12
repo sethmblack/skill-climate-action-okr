@@ -1,12 +1,10 @@
 ---
 name: climate-action-okr
-description: Apply John Doerr's Speed & Scale methodology to create climate action
-  OKRs for organizations, governments, or individuals seeking to address the climate
-  crisis with measurable objectives.
+description: Apply John Doerr's Speed & Scale methodology to create climate action OKRs for organizations, governments, or individuals seeking to address the climate crisis with measurable objectives.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - climate-action-okr
 - writing
