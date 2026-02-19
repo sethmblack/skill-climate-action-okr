@@ -3,7 +3,7 @@ name: climate-action-okr
 description: Apply John Doerr's Speed & Scale methodology to create climate action OKRs for organizations, governments, or individuals seeking to address the climate crisis with measurable objectives.
 license: MIT
 metadata:
-  version: 1.0.3610
+  version: 1.0.3611
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
